@@ -1,4 +1,4 @@
-This repository provides the official PyTorch implementation of the TITS paper “Enhancing Infrared Small Target Detection: A Saliency-Guided Multi-Task Learning Approach"
+This repository provides the official PyTorch implementation of the TITS paper "Zhaoying Liu , Yuxiang Zhang, et al. "Enhancing Infrared Small Target Detection: A Saliency-Guided Multi-Task Learning Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 3, pp. 3603-3618, March 2025"
 
 Only the three public datasets used in the paper are provided here; the remaining two are proprietary and have not been released.
 
